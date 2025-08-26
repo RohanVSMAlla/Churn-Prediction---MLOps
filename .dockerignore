@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.mlflow/ 
+mlruns/
+airflow_dags/
+notebooks/
+logs/
+.git/
+.gitignore
+.DS_Store
